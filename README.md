@@ -1,5 +1,8 @@
+<pre>
+    <code>
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<title>Table V02</title>
 	<meta charset="UTF-8">
@@ -209,3 +212,5 @@
 
 </body>
 </html>
+  </code>
+</pre>
